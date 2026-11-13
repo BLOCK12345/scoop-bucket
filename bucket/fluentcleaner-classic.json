@@ -1,11 +1,11 @@
 {
-    "version": "26.11.01",
+    "version": "26.11.02",
     "description": "FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.",
     "homepage": "https://github.com/builtbybel/FluentCleaner",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/builtbybel/FluentCleaner/releases/download/26.11.01/FluentCleaner-Classic-net48.zip",
+            "url": "https://github.com/builtbybel/FluentCleaner/releases/download/26.11.02/FluentCleaner-Classic-net48.zip",
             "hash": "8a93a8a08f2141fc532ed16b4e1534d84b3e66650507d5affe38ec6e0c3c1d4e",
             "extract_dir": "FluentCleaner-Classic-net48"
         }
